@@ -1,2 +1,2 @@
 # IOT
- Repositorio de teste.
+ Repositório de teste para Projeto IOT.
